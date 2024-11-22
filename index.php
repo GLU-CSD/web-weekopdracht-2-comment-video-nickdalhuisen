@@ -8,7 +8,7 @@ $getReactions = Reactions::getReactions();
 
 if(!empty($_POST)){
 
-    //dit is een voorbeeld array.  Deze waardes moeten erin staan.
+    //dit is een voorbeeld array.  Deze waardes moeten erin staan.rgegr
     $postArray = [
         'name' => "Ieniminie",
         'email' => "ieniminie@sesamstraat.nl",
